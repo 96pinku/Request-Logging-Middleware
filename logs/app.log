@@ -1,0 +1,8 @@
+2024-12-13T10:37:58.564Z info: Server is running on port 3000
+2024-12-13T10:45:10.275Z info: GET /api - IP: ::1
+2024-12-13T10:47:02.393Z info: GET / - IP: ::1
+2024-12-13T10:47:02.396Z info: Root route accessed
+2024-12-13T10:49:55.757Z info: GET / - IP: ::1
+2024-12-13T10:49:55.762Z info: Root route accessed
+2024-12-13T10:49:58.478Z info: GET / - IP: ::1
+2024-12-13T10:49:58.480Z info: Root route accessed
